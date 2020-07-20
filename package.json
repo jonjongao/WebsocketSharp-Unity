@@ -1,6 +1,6 @@
 {
   "name": "com.battleham.websocketsharpunity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "WebsocketSharp Unity",
   "description": "Builded package version of websocket-sharp which developed by [sta](https://github.com/sta)",
   "unity": "2018.4",
