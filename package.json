@@ -1,6 +1,6 @@
 {
   "name": "com.battleham.websocketsharpunity",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "WebsocketSharp Unity",
   "description": "Builded package version of websocket-sharp which developed by [sta](https://github.com/sta)",
   "unity": "2018.4",
@@ -13,5 +13,7 @@
     "name": "Jon Gao",
     "email": "jonjon.liho@gmail.com",
     "url": "https://twitter.com/jonjongao"
-  }
+  },
+  "hideInEditor": false,
+  "type": "library"
 }
